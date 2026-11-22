@@ -23,18 +23,14 @@ Comedero automático que dispensa alimento solo cuando detecta al gato y evita s
 | LED (con 220 Ω) | GPIO 5 |
 | Alimentación | 3V3 y GND |
 
-## Diagrama de conexiones
-
-![Diagrama](docs/esquema.png)
-
 ## Simulación
 
-Proyecto en Wokwi: [Enlace público de Wokwi]
+Proyecto en Wokwi: https://wokwi.com/projects/481345822057182209
 
 ## Código
 
-Ver la carpeta firmware/. Biblioteca usada: ESP32Servo.
+Ver la carpeta firmware/sketch.ino. Biblioteca usada: ESP32Servo.
 
 ## Evidencia
 
-![Simulación](media/simulacion.png)
+![Simulación](media/capturacomedero.png)
