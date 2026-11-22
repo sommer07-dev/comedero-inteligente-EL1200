@@ -32,7 +32,3 @@ Proyecto en Wokwi: https://wokwi.com/projects/481345822057182209
 El código del ESP32 se encuentra en el archivo sketch.ino.
 
 La biblioteca utilizada se encuentra en el archivo bibliotecas.
-
-## Evidencia
-
-![Simulación](media/capturacomedero.png)
